@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://inspiring-kepler-21e725.netlify.com"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
