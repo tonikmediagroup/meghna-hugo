@@ -4,12 +4,12 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We are engineers 
+    content : Our team has serveral years of expirence builidng Data solutions for business.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Business result driven 
+    content : When working with our clients we always keep the business goal in mind use that to drive our engineering decison.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius

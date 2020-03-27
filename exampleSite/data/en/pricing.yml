@@ -4,8 +4,8 @@ pricing:
   title : Our Plans
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
+    - name : Subscription
+      price : $80
       unit : month
       services:
         - 1GB Disk Space
